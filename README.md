@@ -1,6 +1,6 @@
 # Black-Scholes-and-the-Greeks
 
-Some Visualizations related to Black-Scholes European Option Pricing:
+Some interactive Visualizations related to Black-Scholes European Option Pricing:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mmmlung/Black-Scholes-and-the-Greeks/HEAD)
 
